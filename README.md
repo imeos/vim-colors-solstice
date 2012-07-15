@@ -15,3 +15,7 @@ Screenshot of ruby sourcecode in MacVIM 7.3 with this theme.
 2. Edit your .vimrc and add:
 
         :colorscheme ir_black
+
+3. Reload your .vimrc
+
+        :source $MYVIMRC
