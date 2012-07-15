@@ -1,6 +1,7 @@
 # vim-irblack
 
-A variation of the famous IR_BLACK theme for VIM, packaged to work with Tim Pope's pathogen plugin (http://www.vim.org/scripts/script.php?script_id=2332).
+A variation of the famous IR_BLACK theme for VIM. Packaged to work with Tim Pope's pathogen plugin (http://github.com/tpope/vim-pathogen).
+
 The main difference is that the color for numbers here is #e59496 instead of the default pinkish #ff73fd:
 
 ![IR_BLACK](http://stuff.imeos.org/persistent/vim-ir_black_ruby.png)
