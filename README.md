@@ -1,10 +1,10 @@
-# vim-irblack
+# Solstice
 
-A variation of the famous IR_BLACK theme for VIM. Packaged to work with Tim Pope's pathogen plugin (http://github.com/tpope/vim-pathogen).
+Based upon the famous IR_BLACK theme for VIM. Packaged to work with Vundle or Pathogen.
 
-The main difference is that the color for numbers here is #e59496 instead of the default pinkish #ff73fd:
+To make this and other themes play nicely with your 256/16 colors terminal automagically, use something like [CSApprox](http://www.vim.org/scripts/script.php?script_id=2390).
 
-![IR_BLACK](http://stuff.imeos.org/persistent/vim-ir_black_ruby.png)
+![Screenshot with Ruby code](https://raw.github.com/imeos/vim-colors-solstice/master/vim-colors-solstice_preview.png)
 Screenshot of ruby sourcecode in MacVIM 7.3 with this theme.
 
 ## Usage/Installation
